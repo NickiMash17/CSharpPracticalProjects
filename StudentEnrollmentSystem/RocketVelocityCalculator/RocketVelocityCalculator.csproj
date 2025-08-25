@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyTitle>Rocket Velocity and Position Calculator</AssemblyTitle>
+    <Description>A C# console application for calculating rocket motion using physics formulas</Description>
+  </PropertyGroup>
+
+</Project> 
