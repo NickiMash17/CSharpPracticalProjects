@@ -25,7 +25,7 @@ This solution contains three main mathematical application projects:
 
 - **Language**: C# (.NET Core)
 - **IDE**: Visual Studio / Visual Studio Code
-- **Framework**: .NET Core 6.0+
+- **Framework**: .NET 8.0+
 - **Architecture**: Clean Architecture with Service Layer Pattern
 
 ## 📁 Project Structure
@@ -51,7 +51,7 @@ CSharpPracticalProjects/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- .NET Core 6.0 or later
+- .NET 8.0 or later
 - Visual Studio 2022 or Visual Studio Code
 - Git
 
