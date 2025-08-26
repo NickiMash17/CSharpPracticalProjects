@@ -605,7 +605,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
 
 ### **NickiMash17** 
-*Software Developer & Educator*
+*Software Developer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-NickiMash17-black?style=for-the-badge&logo=github)](https://github.com/NickiMash17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nickimash17)
