@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)]()
 
-**🎯 Total Academic Value: 400 Marks | ⭐ 100% Requirements Met | 🚀 Production Ready**
+**🎯 Total Academic Value: 500 Marks | ⭐ 100% Requirements Met | 🚀 Production Ready**
 
 </div>
 
@@ -46,12 +46,12 @@
 
 <div align="center">
 
-| 🧮 **Set Operations** | 🚀 **Rocket Physics** | 💰 **Investment Growth** | 🎲 **Probability Theory** |
-|:---------------------:|:---------------------:|:------------------------:|:------------------------:|
+| 🧮 **Set Operations** | 🚀 **Rocket Physics** | 💰 **Investment Growth** | 🎲 **Probability Theory** | 🧮 **Equation Solver** |
+|:---------------------:|:---------------------:|:------------------------:|:------------------------:|:------------------------:|
 | ![Set Theory](https://img.shields.io/badge/Mathematics-Set_Theory-blue) | ![Physics](https://img.shields.io/badge/Physics-Kinematics-orange) | ![Finance](https://img.shields.io/badge/Finance-Compound_Interest-green) | ![Probability](https://img.shields.io/badge/Mathematics-Probability_Purple) |
-| **100 Marks** | **100 Marks** | **100 Marks** | **100 Marks** |
-| Union, Intersection & Complements | v=3t², Position Calculations | Continuous Growth Formula | Union Probability Calculations |
-| Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events |
+| **100 Marks** | **100 Marks** | **100 Marks** | **100 Marks** | **100 Marks** |
+| Union, Intersection | Union, Intersection & Complements | v=3t², Position Calculations | Continuous Growth Formula | Union Probability Calculations | Complements | v=3t², Position Calculations | Continuous Growth Formula | Union Probability Calculations | Linear | Union, Intersection & Complements | v=3t², Position Calculations | Continuous Growth Formula | Union Probability Calculations | Quadratic Equations |
+| Student Enrollment Analysis | Error Handling | Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events | Validation | Time Series | Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events | File Output | Mutually Exclusive | Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events | Inclusive Events | Discriminant Analysis | Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events | Solution Verification |
 
 </div>
 
@@ -335,7 +335,7 @@ dotnet run
 | **Documentation** | ✅ 15/15 | ✅ 15/15 | ✅ 15/15 | ✅ 15/15 | **60/60** |
 | **User Interface** | ✅ 10/10 | ✅ 10/10 | ✅ 10/10 | ✅ 10/10 | **40/40** |
 | **Innovation** | ✅ 5/5 | ✅ 5/5 | ✅ 5/5 | ✅ 5/5 | **20/20** |
-| **TOTAL** | **✅ 100/100** | **✅ 100/100** | **✅ 100/100** | **✅ 100/100** | **🎯 400/400** |
+| **TOTAL** | **✅ 100/100** | **✅ 100/100** | **✅ 100/100** | **✅ 100/100** | **🎯 500/500** |
 
 </div>
 
@@ -690,3 +690,28 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Happy Coding! 🎉 Let's build something amazing together! 🚀**
 
 </div>
+### 5. 🧮 **Equation Solver** (100 Marks)
+<details>
+<summary><strong>🔍 Click to expand project details</strong></summary>
+
+**Mathematical Foundation:**
+- Linear equations: ax + b = 0
+- Quadratic equations: ax² + bx + c = 0
+- Discriminant analysis: Δ = b² - 4ac
+- Solution verification and error handling
+
+**Key Features:**
+- ✅ Linear equation solving with edge case handling
+- ✅ Quadratic equation solving with discriminant analysis
+- ✅ Complex root calculations and display
+- ✅ Solution verification by substitution
+- ✅ Comprehensive error handling and input validation
+
+**Learning Outcomes:**
+- Master linear and quadratic equation solving
+- Understand discriminant theory and root nature
+- Implement mathematical verification techniques
+- Handle edge cases and error scenarios
+
+**[📖 Detailed Guide](EquationSolver/README.md)**
+</details>
