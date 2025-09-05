@@ -1,6 +1,6 @@
-# 📐 C# Mathematical Applications - Practical Projects
+# 📐 C# Mathematical Applications - Weekly Projects
 
-> **A comprehensive collection of real-world mathematical programming projects designed for academic excellence and practical learning.**
+> **A comprehensive collection of real-world mathematical programming projects designed for practical learning and skill development.**
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)]()
 
-**🎯 Total Academic Value: 500 Marks | ⭐ 100% Requirements Met | 🚀 Production Ready**
+**🎯 5 Complete Weekly Projects | ⭐ 100% Requirements Met | 🚀 Production Ready**
 
 </div>
 
@@ -21,11 +21,11 @@
 <tr>
 <td width="50%">
 
-### 🎓 **Academic Excellence**
-- ✅ **Full Mark Guarantee**: Each project designed for 100/100 marks
+### 🎓 **Learning Excellence**
+- ✅ **Complete Solutions**: Each project fully implemented and tested
 - 📚 **Comprehensive Documentation**: Step-by-step guides included
 - 🧪 **Tested Solutions**: All projects verified and working
-- 📝 **Assignment Ready**: Perfect for coursework submission
+- 📝 **Ready to Use**: Perfect for learning and portfolio building
 
 </td>
 <td width="50%">
@@ -34,7 +34,7 @@
 - 🏗️ **Clean Architecture**: Industry-standard code structure
 - 🔒 **Robust Error Handling**: Production-level input validation
 - 🎨 **Modern C# Features**: Latest language constructs
-- 📊 **Real-World Applications**: Practical problem solving
+- �� **Real-World Applications**: Practical problem solving
 
 </td>
 </tr>
@@ -48,14 +48,14 @@
 
 | 🧮 **Set Operations** | 🚀 **Rocket Physics** | 💰 **Investment Growth** | 🎲 **Probability Theory** | 🧮 **Equation Solver** |
 |:---------------------:|:---------------------:|:------------------------:|:------------------------:|:------------------------:|
-| ![Set Theory](https://img.shields.io/badge/Mathematics-Set_Theory-blue) | ![Physics](https://img.shields.io/badge/Physics-Kinematics-orange) | ![Finance](https://img.shields.io/badge/Finance-Compound_Interest-green) | ![Probability](https://img.shields.io/badge/Mathematics-Probability_Purple) |
-| **100 Marks** | **100 Marks** | **100 Marks** | **100 Marks** | **100 Marks** |
-| Union, Intersection | Union, Intersection & Complements | v=3t², Position Calculations | Continuous Growth Formula | Union Probability Calculations | Complements | v=3t², Position Calculations | Continuous Growth Formula | Union Probability Calculations | Linear | Union, Intersection & Complements | v=3t², Position Calculations | Continuous Growth Formula | Union Probability Calculations | Quadratic Equations |
-| Student Enrollment Analysis | Error Handling | Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events | Validation | Time Series | Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events | File Output | Mutually Exclusive | Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events | Inclusive Events | Discriminant Analysis | Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events | Solution Verification |
+| ![Set Theory](https://img.shields.io/badge/Mathematics-Set_Theory-blue) | ![Physics](https://img.shields.io/badge/Physics-Kinematics-orange) | ![Finance](https://img.shields.io/badge/Finance-Compound_Interest-green) | ![Probability](https://img.shields.io/badge/Mathematics-Probability_Purple) | ![Algebra](https://img.shields.io/badge/Mathematics-Algebra-red) |
+| **Week 1** | **Week 2** | **Week 3** | **Week 4** | **Week 5** |
+| Union, Intersection & Complements | v=3t², Position Calculations | Continuous Growth Formula | Union Probability Calculations | Linear & Quadratic Equations |
+| Student Enrollment Analysis | Error Handling & Validation | Time Series & File Output | Mutually Exclusive & Inclusive Events | Discriminant Analysis & Solution Verification |
 
 </div>
 
-### 1. 🧮 **Set Operations Analysis System** (100 Marks)
+### 1. 🧮 **Set Operations Analysis System** (Week 1)
 <details>
 <summary><strong>🔍 Click to expand project details</strong></summary>
 
@@ -79,7 +79,7 @@
 **[📖 Detailed Guide](SetOperationsSystem/README.md)**
 </details>
 
-### 2. 🚀 **Rocket Velocity Calculator** (100 Marks)
+### 2. 🚀 **Rocket Velocity Calculator** (Week 2)
 <details>
 <summary><strong>🔍 Click to expand project details</strong></summary>
 
@@ -103,7 +103,7 @@
 **[📖 Detailed Guide](RocketVelocityCalculator/README.md)**
 </details>
 
-### 3. 💰 **Investment Growth Calculator** (100 Marks)
+### 3. 💰 **Investment Growth Calculator** (Week 3)
 <details>
 <summary><strong>🔍 Click to expand project details</strong></summary>
 
@@ -127,9 +127,9 @@
 **[📖 Detailed Guide](InvestmentGrowthCalculator/README.md)**
 </details>
 
-### 4. 🎲 **Probability Calculator** (100 Marks)
+### 4. 🎲 **Probability Calculator** (Week 4)
 <details>
-<summary><strong>🔍 Click to expand project details</strong></summary>
+<summary><strong>�� Click to expand project details</strong></summary>
 
 **Mathematical Foundation:**
 - Probability theory and statistical mathematics
@@ -153,29 +153,35 @@
 **[📖 Detailed Guide](ProbabilityCalculator/README.md)**
 </details>
 
+### 5. 🧮 **Equation Solver** (Week 5)
+<details>
+<summary><strong>🔍 Click to expand project details</strong></summary>
+
+**Mathematical Foundation:**
+- Linear equations: ax + b = 0
+- Quadratic equations: ax² + bx + c = 0
+- Discriminant analysis: Δ = b² - 4ac
+- Solution verification and error handling
+
+**Key Features:**
+- ✅ Linear equation solving with edge case handling
+- ✅ Quadratic equation solving with discriminant analysis
+- ✅ Complex root calculations and display
+- ✅ Solution verification by substitution
+- ✅ Comprehensive error handling and input validation
+
+**Learning Outcomes:**
+- Master linear and quadratic equation solving
+- Understand discriminant theory and root nature
+- Implement mathematical verification techniques
+- Handle edge cases and error scenarios
+
+**[📖 Detailed Guide](EquationSolver/README.md)**
+</details>
+
 ---
 
 ## 🛠️ **Technology Stack & Architecture**
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[C# .NET 8.0+] --> B[Clean Architecture]
-    B --> C[Service Layer Pattern]
-    C --> D[Models Layer]
-    C --> E[Services Layer]
-    C --> F[Presentation Layer]
-    D --> G[Student & Course Classes]
-    E --> H[Mathematical Operations]
-    F --> I[Console Interface]
-    
-    style A fill:#512BD4,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#239120,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#FF6B35,stroke:#333,stroke-width:2px,color:#fff
-```
-
-</div>
 
 **Core Technologies:**
 - 🔧 **Language**: C# 11.0+ with latest features
@@ -192,77 +198,19 @@ graph TD
 
 ---
 
-## 📁 **Enhanced Project Structure**
+## 📁 **Project Structure**
 
 ```
 🏗️ CSharpPracticalProjects/
-├── 📁 SetOperationsSystem/              ← 🧮 Mathematical Set Theory
-│   ├── 📁 Models/
-│   │   ├── 📄 Student.cs                ← Student data model
-│   │   ├── 📄 Course.cs                 ← Course information
-│   │   └── 📄 SetResult.cs              ← Operation results
-│   ├── 📁 Services/
-│   │   ├── 📄 SetOperationsService.cs   ← Core set operations
-│   │   ├── 📄 ValidationService.cs      ← Input validation
-│   │   └── 📄 DisplayService.cs         ← Output formatting
-│   ├── 📄 Program.cs                    ← Application entry point
-│   ├── 📄 SetOperationsSystem.csproj    ← Project configuration
-│   └── 📖 README.md                     ← Comprehensive guide
-│
-├── 📁 RocketVelocityCalculator/         ← 🚀 Physics Calculations  
-│   ├── 📁 Models/
-│   │   ├── 📄 PhysicsConstants.cs       ← Physical constants
-│   │   ├── 📄 RocketData.cs             ← Calculation results
-│   │   └── 📄 TimeInterval.cs           ← Time management
-│   ├── 📁 Services/
-│   │   ├── 📄 VelocityCalculatorService.cs ← Core physics engine
-│   │   ├── 📄 FormulaService.cs         ← Mathematical formulas
-│   │   └── 📄 ValidationService.cs      ← Error handling
-│   ├── 📄 Program.cs                    ← Main application
-│   ├── 📄 RocketVelocityCalculator.csproj ← Build configuration
-│   └── 📖 README.md                     ← Usage documentation
-│
-├── 📁 InvestmentGrowthCalculator/       ← 💰 Financial Mathematics
-│   ├── 📁 Models/
-│   │   ├── 📄 Investment.cs             ← Investment parameters
-│   │   ├── 📄 GrowthResult.cs           ← Calculation results
-│   │   └── 📄 TimeSeriesData.cs         ← Historical data
-│   ├── 📁 Services/
-│   │   ├── 📄 CompoundInterestService.cs ← Financial calculations
-│   │   ├── 📄 FileExportService.cs      ← Data export functionality
-│   │   └── 📄 AnalysisService.cs        ← Investment analysis
-│   ├── 📁 Output/                       ← Generated reports
-│   ├── 📄 Program.cs                    ← Application main
-│   ├── 📄 InvestmentGrowthCalculator.csproj ← Project file
-│   └── 📖 README.md                     ← User guide
-│
-├── 📁 ProbabilityCalculator/            ← 🎲 Probability Theory
-│   ├── 📁 Models/
-│   │   ├── 📄 ProbabilityEvent.cs       ← Probability event model
-│   │   └── 📄 ValidationResult.cs       ← Validation outcomes
-│   ├── 📁 Services/
-│   │   ├── 📄 ProbabilityCalculationService.cs ← Core probability engine
-│   │   └── 📄 ValidationService.cs      ← Mathematical validation
-│   ├── 📄 Program.cs                    ← Application entry point
-│   ├── 📄 ProbabilityCalculator.csproj  ← Project configuration
-│   └── 📖 README.md                     ← Comprehensive guide
-│
-├── 📁 Documentation/                    ← 📚 Additional Resources
-│   ├── 📄 USER_GUIDE.md                ← Complete usage guide
-│   ├── 📄 API_REFERENCE.md             ← Code documentation
-│   ├── 📄 TROUBLESHOOTING.md           ← Common issues
-│   └── 📄 CONTRIBUTING.md              ← Contribution guidelines
-│
-├── 📁 Tests/                           ← 🧪 Testing Framework
-│   ├── 📁 SetOperationsTests/
-│   ├── 📁 RocketCalculatorTests/
-│   └── 📁 InvestmentCalculatorTests/
-│
+├── 📁 SetOperationsSystem/              ← 🧮 Mathematical Set Theory (Week 1)
+├── 📁 RocketVelocityCalculator/         ← 🚀 Physics Calculations (Week 2)
+├── 📁 InvestmentGrowthCalculator/       ← 💰 Financial Mathematics (Week 3)
+├── 📁 ProbabilityCalculator/            ← 🎲 Probability Theory (Week 4)
+├── 📁 EquationSolver/                   ← 🧮 Algebra & Equations (Week 5)
 ├── 📄 CSharpPracticalProjects.sln      ← Visual Studio solution
-├── 📖 README.md                        ← This enhanced guide
-├── 📄 LICENSE                          ← MIT License
+├── 📖 README.md                        ← This guide
 ├── 📄 .gitignore                       ← Git exclusions
-└── 📄 CHANGELOG.md                     ← Version history
+└── 📄 USER_GUIDE.md                    ← Complete usage guide
 ```
 
 ---
@@ -287,9 +235,9 @@ git clone https://github.com/NickiMash17/CSharpPracticalProjects.git && cd CShar
 
 <table>
 <tr>
-<th>🧮 Set Operations</th>
-<th>🚀 Rocket Calculator</th>
-<th>💰 Investment Calculator</th>
+<th>🧮 Set Operations (Week 1)</th>
+<th>🚀 Rocket Calculator (Week 2)</th>
+<th>💰 Investment Calculator (Week 3)</th>
 </tr>
 <tr>
 <td>
@@ -319,23 +267,46 @@ dotnet run
 </tr>
 </table>
 
+<table>
+<tr>
+<th>�� Probability Calculator (Week 4)</th>
+<th>🧮 Equation Solver (Week 5)</th>
+</tr>
+<tr>
+<td>
+
+```bash
+cd ProbabilityCalculator
+dotnet run
+```
+
+</td>
+<td>
+
+```bash
+cd EquationSolver
+dotnet run
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 **Academic Achievement Dashboard**
+## 📊 **Project Completion Dashboard**
 
 <div align="center">
 
-### 🏆 **Complete Grade Breakdown**
+### 🏆 **Weekly Project Progress**
 
-| Assessment Criteria | Set Operations | Rocket Calculator | Investment Growth | Probability Calculator | Total |
-|:-------------------:|:--------------:|:-----------------:|:-----------------:|:-----:|
-| **Code Quality** | ✅ 25/25 | ✅ 25/25 | ✅ 25/25 | ✅ 25/25 | **100/100** |
-| **Mathematical Accuracy** | ✅ 25/25 | ✅ 25/25 | ✅ 25/25 | ✅ 25/25 | **100/100** |
-| **Error Handling** | ✅ 20/20 | ✅ 20/20 | ✅ 20/20 | ✅ 20/20 | **80/80** |
-| **Documentation** | ✅ 15/15 | ✅ 15/15 | ✅ 15/15 | ✅ 15/15 | **60/60** |
-| **User Interface** | ✅ 10/10 | ✅ 10/10 | ✅ 10/10 | ✅ 10/10 | **40/40** |
-| **Innovation** | ✅ 5/5 | ✅ 5/5 | ✅ 5/5 | ✅ 5/5 | **20/20** |
-| **TOTAL** | **✅ 100/100** | **✅ 100/100** | **✅ 100/100** | **✅ 100/100** | **🎯 500/500** |
+| Week | Project | Status | Key Learning Areas |
+|:----:|:--------|:------:|:------------------:|
+| **Week 1** | **Set Operations** | ✅ Complete | Set Theory, Data Structures |
+| **Week 2** | **Rocket Physics** | ✅ Complete | Physics, Mathematical Formulas |
+| **Week 3** | **Investment Growth** | ✅ Complete | Financial Math, File I/O |
+| **Week 4** | **Probability Theory** | ✅ Complete | Statistics, Input Validation |
+| **Week 5** | **Equation Solver** | ✅ Complete | Algebra, Error Handling |
 
 </div>
 
@@ -348,67 +319,12 @@ dotnet run
 ```bash
 # Run comprehensive testing suite
 dotnet build --configuration Release    # Build verification
-dotnet test                            # Unit tests (if available)
 dotnet run --project SetOperationsSystem     # Integration test 1
 dotnet run --project RocketVelocityCalculator  # Integration test 2  
 dotnet run --project InvestmentGrowthCalculator # Integration test 3
 dotnet run --project ProbabilityCalculator     # Integration test 4
+dotnet run --project EquationSolver           # Integration test 5
 ```
-
-### 🎯 **Manual Testing Scenarios**
-
-<details>
-<summary><strong>📋 Set Operations Testing Checklist</strong></summary>
-
-**Test Cases:**
-- [ ] Union of two valid sets
-- [ ] Intersection with empty result
-- [ ] Complement calculation
-- [ ] Invalid input handling
-- [ ] Large dataset performance
-- [ ] Edge cases (empty sets, duplicates)
-
-</details>
-
-<details>
-<summary><strong>🚀 Rocket Calculator Testing Checklist</strong></summary>
-
-**Test Cases:**
-- [ ] Standard time input (positive values)
-- [ ] Zero time input
-- [ ] Negative time handling
-- [ ] Large time values
-- [ ] Decimal precision verification
-- [ ] Formula accuracy check
-
-</details>
-
-<details>
-<summary><strong>💰 Investment Calculator Testing Checklist</strong></summary>
-
-**Test Cases:**
-- [ ] Standard investment parameters
-- [ ] Zero principal/rate scenarios
-- [ ] Long-term projections (50+ years)
-- [ ] File output generation
-- [ ] Data export functionality
-- [ ] Mathematical precision verification
-
-</details>
-
-<details>
-<summary><strong>🎲 Probability Calculator Testing Checklist</strong></summary>
-
-**Test Cases:**
-- [ ] Mutually exclusive events calculation
-- [ ] Inclusive events calculation
-- [ ] Input validation (0 ≤ p ≤ 1)
-- [ ] Intersection probability validation
-- [ ] Error handling for invalid inputs
-- [ ] Mathematical constraint checking
-- [ ] Multiple calculation sessions
-
-</details>
 
 ---
 
@@ -481,87 +397,6 @@ public class SetOperationsService
 }
 ```
 
-### 🎨 **Professional Output Examples**
-
-<details>
-<summary><strong>🧮 Set Operations Output Preview</strong></summary>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    SET OPERATIONS ANALYSIS                   ║
-╠══════════════════════════════════════════════════════════════╣
-║ Course: Computer Science 101                                 ║
-║ Students in Set A: Alice, Bob, Charlie, David                ║
-║ Students in Set B: Charlie, David, Eve, Frank                ║
-║                                                             ║
-║ UNION (A ∪ B):     Alice, Bob, Charlie, David, Eve, Frank   ║
-║ INTERSECTION (A ∩ B): Charlie, David                        ║
-║ COMPLEMENT (A'):   Eve, Frank                               ║
-║                                                             ║
-║ Analysis Complete ✅                                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</details>
-
-<details>
-<summary><strong>🚀 Rocket Calculator Output Preview</strong></summary>
-
-```
-🚀 ROCKET VELOCITY & POSITION CALCULATOR
-═══════════════════════════════════════════
-
-Time (s) │ Velocity (m/s) │ Position (m)
-─────────┼────────────────┼──────────────
-   0     │      0.00      │     0.00
-   1     │      3.00      │     1.00
-   2     │     12.00      │     8.00
-   3     │     27.00      │    27.00
-   4     │     48.00      │    64.00
-   5     │     75.00      │   125.00
-
-📊 Maximum velocity reached: 75.00 m/s
-📍 Final position: 125.00 m
-✅ Calculations completed successfully
-```
-
-</details>
-
----
-
-## 🔧 **Development & Customization**
-
-### 🛠️ **Extension Ideas**
-
-Want to enhance these projects? Here are some ideas:
-
-1. **🌐 Web Interface**: Convert console apps to web applications
-2. **📊 Data Visualization**: Add charts and graphs using plotting libraries
-3. **🗄️ Database Integration**: Store results in SQL Server or SQLite
-4. **🔒 Authentication**: Add user login and session management
-5. **📱 Mobile App**: Create Xamarin or MAUI mobile versions
-6. **🎨 GUI Version**: Build WPF or Windows Forms interfaces
-
-### 📝 **Coding Standards**
-
-```csharp
-/// <summary>
-/// Calculates the union of multiple sets using modern C# features
-/// </summary>
-/// <typeparam name="T">The type of elements in the sets</typeparam>
-/// <param name="sets">Variable number of sets to union</param>
-/// <returns>A new HashSet containing all unique elements</returns>
-public static HashSet<T> CalculateUnion<T>(params HashSet<T>[] sets)
-{
-    ArgumentNullException.ThrowIfNull(sets);
-    
-    return sets
-        .Where(set => set is not null)
-        .Aggregate(new HashSet<T>(), (union, currentSet) => 
-            union.Union(currentSet).ToHashSet());
-}
-```
-
 ---
 
 ## 📚 **Comprehensive Learning Resources**
@@ -569,16 +404,8 @@ public static HashSet<T> CalculateUnion<T>(params HashSet<T>[] sets)
 ### 🎯 **Beginner-Friendly Guides**
 
 - 📖 **[Complete User Guide](USER_GUIDE.md)** - Step-by-step instructions for all projects
-- 🎥 **Video Tutorials** - Coming soon: YouTube walkthrough series
 - 💡 **Code Comments** - Every line explained for learning purposes
 - 🧪 **Interactive Examples** - Try different inputs and see results
-
-### 🔬 **Advanced Topics**
-
-- 📊 **Mathematical Computing in C#** - Numerical methods and precision
-- 🏗️ **Software Architecture** - Clean code and design patterns
-- 🔒 **Error Handling Strategies** - Building robust applications
-- 📈 **Performance Optimization** - Making your code faster
 
 ### 🌐 **External Resources**
 
@@ -599,7 +426,6 @@ public static HashSet<T> CalculateUnion<T>(params HashSet<T>[] sets)
 
 [![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/NickiMash17/CSharpPracticalProjects/issues)
 [![Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github)](https://github.com/NickiMash17/CSharpPracticalProjects/discussions)
-[![Discord](https://img.shields.io/badge/Discord-Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/csharp)
 
 </div>
 
@@ -608,22 +434,10 @@ public static HashSet<T> CalculateUnion<T>(params HashSet<T>[] sets)
 We welcome contributions! Here's how you can help:
 
 - 🐛 **Report Bugs**: Found an issue? Let us know!
-- 💡 **Suggest Features**: Have ideas for improvements?
+- �� **Suggest Features**: Have ideas for improvements?
 - 📚 **Improve Documentation**: Help make guides clearer
 - 🔧 **Submit Code**: Fix bugs or add new features
 - ⭐ **Star the Repo**: Show your support!
-
-### 🏆 **Contributors**
-
-Special thanks to everyone who has contributed to this project:
-
-<div align="center">
-
-![Contributors](https://contrib.rocks/image?repo=NickiMash17/CSharpPracticalProjects)
-
-*Be the next contributor! Your name could be here.*
-
-</div>
 
 ---
 
@@ -690,28 +504,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Happy Coding! 🎉 Let's build something amazing together! 🚀**
 
 </div>
-### 5. 🧮 **Equation Solver** (100 Marks)
-<details>
-<summary><strong>🔍 Click to expand project details</strong></summary>
-
-**Mathematical Foundation:**
-- Linear equations: ax + b = 0
-- Quadratic equations: ax² + bx + c = 0
-- Discriminant analysis: Δ = b² - 4ac
-- Solution verification and error handling
-
-**Key Features:**
-- ✅ Linear equation solving with edge case handling
-- ✅ Quadratic equation solving with discriminant analysis
-- ✅ Complex root calculations and display
-- ✅ Solution verification by substitution
-- ✅ Comprehensive error handling and input validation
-
-**Learning Outcomes:**
-- Master linear and quadratic equation solving
-- Understand discriminant theory and root nature
-- Implement mathematical verification techniques
-- Handle edge cases and error scenarios
-
-**[📖 Detailed Guide](EquationSolver/README.md)**
-</details>
